@@ -12,8 +12,23 @@ Aplicativo Java simples integrado ao DataBase. <br>
 3- Conecte-se com seu Banco de Dados
 
 ---
-<h2>COMO FUNCIONA:</h2>
+<h2>O QUE FAZ:</h2>
+<h3>Add Password</h3>
+<p>Preencha os dados e clique para adicionar ao banco de dados.</p>
+
+<h3>Generate Strong Password</h3>
+<p>Gera uma senha forte aleatoria.</p>
+
+
+<h3>Copy Password</h3>
+<p>Copia a senha para o clipboard.</p>
+
+<h3>Retrieve Password</h3>
 <p>Além do obvio, digite o nome do serviço cadastrado (exatamente como foi escrito no cadastro) para que o app retorne login e senha salva no banco de dados.</p>
+
+
+<h3>Deleta Password</h3>
+<p>Deleta da tabela./p>
 <div align="center">
     <img src="https://github.com/jpgercc/Pass_Maneger/assets/115590969/5ecae239-0d46-4ce1-a3a9-8e09f8490d77" alt="Imagem 1">
 
