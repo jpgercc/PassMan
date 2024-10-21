@@ -1,4 +1,3 @@
-#Password Manager App
 
 <h1>README</h1>
 Simple Java app integrated with DataBase. <br>
