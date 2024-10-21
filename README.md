@@ -1,18 +1,19 @@
 
-<h1>README</h1>
+<h2>README</h2>
 Simple Java app integrated with DataBase. <br>
 1- Use Java v.19 <br>
 2- Make sure you have this driver on your project structure: https://jdbc.postgresql.org/download/  <br>
 3- Connect with your DataBase
 <br>
-<h1>LEIA-ME</h1>
+<h2>LEIA-ME</h2>
 Aplicativo Java simples integrado ao DataBase. <br>
 1- Usar Java v.19 <br>
 2- Certifique-se de ter este driver na estrutura do seu projeto: https://jdbc.postgresql.org/download/ <br>
 3- Conecte-se com seu Banco de Dados
 
 ---
-
+<h2>COMO FUNCIONA:</h2>
+<p>Além do obvio, digite o nome do serviço cadastrado (exatamente como foi escrito no cadastro) para que o app retorne login e senha salva no banco de dados.</p>
 <div align="center">
     <img src="https://github.com/jpgercc/Pass_Maneger/assets/115590969/5ecae239-0d46-4ce1-a3a9-8e09f8490d77" alt="Imagem 1">
 
