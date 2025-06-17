@@ -1,7 +1,7 @@
 
 <h2>README</h2>
 Simple Java app integrated with DataBase. <br>
-1- Use Java v.19 <br>
+1- Use Java v.19 (obs, pse vi que estava na v.19 muito tarde) <br>
 2- Make sure you have this driver on your project structure: https://jdbc.postgresql.org/download/  <br>
 3- Connect with your DataBase
 <br>
