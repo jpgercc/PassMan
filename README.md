@@ -28,7 +28,7 @@ Aplicativo Java simples integrado ao DataBase. <br>
 
 
 <h3>Deleta Password</h3>
-<p>Deleta da tabela./p>
+<p>Deleta da tabela.</p>
 <div align="center">
     <img src="https://github.com/jpgercc/Pass_Maneger/assets/115590969/5ecae239-0d46-4ce1-a3a9-8e09f8490d77" alt="Imagem 1">
 
